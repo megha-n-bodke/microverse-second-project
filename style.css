@@ -6,9 +6,20 @@
 
 body{
     background-color: rgb(157, 153, 187);
-    opacity: .1;
+}
+
+p{
+    font-size: 30px;
+}
+
+.start-section{
+    color: white;
+    text-align: center;
 }
 
 #title{
-    color: white;
+    font-size:60px;
+    margin-top: 30px;
 }
+
+ 
